@@ -4,5 +4,5 @@ services:
     build: .
     image: jar-app:1.0
     ports:
-      - '5432:9999'
+      - '9999:9999'
 
